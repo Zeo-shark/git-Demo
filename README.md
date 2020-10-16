@@ -1,4 +1,5 @@
 # This repo gives a basic idea for learning Git and Github 
+![](https://miro.medium.com/max/3200/1*8fPMdk2Cd5iJQ7dI7jXCbA.jpeg)
 
 o use Git, developers use specific commands to copy, create, change, and combine code. These commands can be executed directly from the command line or by using an application like GitHub Desktop or Git Kraken. Here are some common commands for using Git:
 
@@ -19,3 +20,9 @@ git merge merges lines of development together. This command is typically used t
 git pull updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
 
 git push updates the remote repository with any commits made locally to a branch.
+
+![Pull Requests](https://www.linode.com/docs/development/version-control/how-to-install-git-and-clone-a-github-repository/git-github-workflow-1000w.png)
+> The process of creating a valid pull requests to a public repositories
+        
+![git cheatsheet](https://i.redd.it/8341g68g1v7y.png)
+
